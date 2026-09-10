@@ -270,3 +270,6 @@ This repository serves as the official landing page for Windows Server 2019. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Windows Server 2019 today!**
+
+---
+**Last updated:** 2026-09-10 22:00:49 UTC
