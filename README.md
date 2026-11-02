@@ -272,4 +272,4 @@ This repository serves as the official landing page for Windows Server 2019. The
 **Get the most recent version of Windows Server 2019 today!**
 
 ---
-**Last updated:** 2026-11-02 01:56:29 UTC
+**Last updated:** 2026-11-02 08:39:23 UTC
